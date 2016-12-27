@@ -2,6 +2,6 @@ extern {
     fn test();
 }
 fn main() {
-    println!("GAAAAAH");
-    //unsafe { test() };
+    //println!("GAAAAAH");
+    unsafe { test() };
 }

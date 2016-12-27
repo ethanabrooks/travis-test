@@ -2,5 +2,6 @@ extern {
     fn test();
 }
 fn main() {
-    unsafe { test() };
+    println!("GAAAAAH");
+    //unsafe { test() };
 }

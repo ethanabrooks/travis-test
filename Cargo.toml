@@ -2,6 +2,7 @@
 name = "travis-test"
 version = "0.1.0"
 authors = ["ethan"]
+build = "build.rs"
 
 
 [dependencies]
